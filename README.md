@@ -5,5 +5,5 @@
 - For training the model to read from the number plate it uses dataset: https://www.kaggle.com/datasets/nainikagaur/dataset-characters
 - After training the weights, models are stored and uploaded. Download the files and run the file. 
 - For Executing the file replace the paths in the Anprsys.ipynb.
-- To run effeciently it requires Tensorflow, Keras, OpenCV, EasyOCR. Additionally If you have CUDA the model performs even better.
+- To run the file it requires Tensorflow, Keras, OpenCV, EasyOCR. Additionally If you have CUDA the model performs even better.
 - If correct path is provided it shares the output in a excel file.
